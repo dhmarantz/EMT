@@ -1,5 +1,3 @@
-# Anatomy and Physiology Mind Map
-
 ## Anatomy and Physiology
 - **Definition**
   - Anatomy: Study of body structure.
